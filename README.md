@@ -8,7 +8,7 @@ Obsahuje zatím:
 | 16.9.`21 | vytvořeno  |
 | 17.9.`21  | přidáno info  |
 
-* [šaškyce](saskyce.png)
+![šaškyce](saskyce.png)
 # Ukázka kódu
 ```
 <!DOCTYPE html>
