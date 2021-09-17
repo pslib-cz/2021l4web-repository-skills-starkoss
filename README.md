@@ -1,13 +1,14 @@
 # Můj super web
 Obsahuje zatím:
 * Ahoj světe
-* odkaz na [info](info.html)
+* odkaz na [info](https://pslib-cz.github.io/2021l4web-repository-skills-starkoss/info.html)
 
 | změna  | popis |
 | ------------- | ------------- |
 | 16.9.`21 | vytvořeno  |
 | 17.9.`21  | přidáno info  |
 
+* [šaškyce](saskyce.png)
 # Ukázka kódu
 ```
 <!DOCTYPE html>
